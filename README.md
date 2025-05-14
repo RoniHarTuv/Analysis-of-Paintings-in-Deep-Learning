@@ -28,4 +28,4 @@ We have designed a deep learning model capable of scoring images on a scale from
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DeepLearningDrawingAnalysis.git
+   git clone 
